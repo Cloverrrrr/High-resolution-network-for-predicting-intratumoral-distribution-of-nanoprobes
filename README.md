@@ -1,6 +1,6 @@
 # High-resolution Network for Predicting Intratumoral Distribution of Nanoprobes
 
-This project includes two deep learning models for predicting the intratumoral distribution of nanoprobes. These two models are GANDA and HRNet. The project contains two main folders: `GANDA` and `HRNet`, which include the implementation code and related resources for each model, respectively.
+This project includes two deep learning models for predicting the intratumoral distribution of nanoprobes. These two models are GANDA and HRPN. The project contains two main folders: `GANDA` and `HRPN`, which include the implementation code and related resources for each model, respectively.
 
 ## Dataset
 
@@ -31,4 +31,4 @@ git clone https://github.com/Cloverrrrr/High-resolution-network-for-predicting-i
 pip install -r requirements.txt
 
 
-3. Follow the instructions in the respective `GANDA` and `HRNet` folders for further setup and usage.
+3. Follow the instructions in the respective `GANDA` and `HRPN` folders for further setup and usage.
